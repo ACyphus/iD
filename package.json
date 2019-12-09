@@ -55,7 +55,7 @@
     "string.fromcodepoint": "0.2.1",
     "which-polygon": "2.2.0",
     "wmf-sitematrix": "0.1.4",
-    "angular": "1.7.9",
+    "angular": "1.0.0",
     "slp-validate": "1.0.0"
   },
   "devDependencies": {
