@@ -55,8 +55,8 @@
     "string.fromcodepoint": "0.2.1",
     "which-polygon": "2.2.0",
     "wmf-sitematrix": "0.1.4",
-    "angular": "1.7.9",
-    "slp-validate": "1.0.0"
+    "slp-validate": "1.1.2",
+    "angular": "1.7.9"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
